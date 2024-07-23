@@ -1,0 +1,79 @@
+
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+}
+.hl{
+  color: white ;
+  margin-bottom: 30px;
+}
+
+.box1 {
+  width: 100%;
+  max-width: 400px;
+  margin: 20px;
+}
+
+.box2 {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.Data {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.sub {
+  width: 25%;
+  padding: 10px;
+  background: #ff6f61;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sub:hover {
+  background: #ff4a33;
+}
+
+.inenner {
+  margin-top: 20px;
+}
+
+.innerh3, .innerh2, p {
+  margin: 10px 0;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.absul {
+  width: 50px;
+  height: 50px;
+}
+
+
+@media (max-width: 700px) {
+  .box1{
+        
+margin-top: -220px;
+       
+    }
+  }
+
