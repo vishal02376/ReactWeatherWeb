@@ -27,6 +27,8 @@ View Weather Details: The app displays temperature, weather conditions, and othe
 
 API Integration
 The app uses the OpenWeatherMap API to fetch weather data. You need to sign up for an API key and const API_KEY = '7b5b3f684d4a4700e730dbd52c341855'.
+
+
 ![Screenshot (158)](https://github.com/user-attachments/assets/83f3f254-cbe5-4c87-8ea6-cdee31e8711b)
 
 ![Screenshot (159)](https://github.com/user-attachments/assets/097967c2-99f0-4c9f-baab-406f032d9ee1)
